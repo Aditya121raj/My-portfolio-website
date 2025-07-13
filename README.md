@@ -1,14 +1,12 @@
 🚀 Aditya Raj's Developer Portfolio
 
-![Portfolio Banner](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
-
 
 Welcome to my developer portfolio — a modern, responsive website showcasing my journey, projects, and passion for full-stack development. Built with React and precision, this portfolio highlights not just what I do, but how I do it.
 
 🧑‍💻 About Me
 Name: Aditya Raj
 Title: Final Year B.Tech CSE Student (2025)
-Location: New Delhi ,India
+Location: New Delhi , India
 
 I'm a self-motivated developer passionate about building seamless user interfaces and scalable backend systems. I love solving problems with code and delivering real-world solutions through full-stack development.
 
@@ -23,18 +21,20 @@ I'm a self-motivated developer passionate about building seamless user interface
 
 📬 Contact Form powered by EmailJS
 
-📌 Sections Included
-🏠 Home
+📌 Sections Included 
 
-🧠 About
+🏠 Home - Dalsinghsarai ,Bihar
 
-🛠️ Skills
+🧠 About :- Driven Software Engineer with a proven ability to lead and deliver impactful solutions. Dedicated to continuous learning and advancing team and organizational goals.
 
-📁 Projects
 
-🧩 Education
+🛠️ Skills :- Interests in DSA, Web Dev; skilled in DBMS, OOP, MERN stack, SQL, Git, and VS Code.
 
-📬 Contact
+📁 Projects :- Resume Analyzer , Bookhaven , Bank Management System and more..
+
+🧩 Education :- Galgotias University
+
+📬 Contact :- +919102384309
 
 🔧 Tech Stack
 Frontend: React.js, JavaScript, Tailwind CSS, HTML, CSS
