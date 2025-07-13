@@ -110,9 +110,10 @@ const Data = () => {
       </h1>
 
       <h3 className="home__subtitle">Software Developer</h3>
-      <p className="home__description">I'm a creative developer based in Bengaluru, and I'm very passionate and dedicated to my work.</p>
+      <p className="home__description">🎓 Final-year B.Tech CSE (2025) student skilled in React.js, Java, and MySQL. Built full-stack apps like a resume classifier & MERN bookstore. Solved 300+ DSA problems.
+Actively seeking frontend or full-stack roles to contribute and grow.</p>
 
-      <a href="https://cal.com/soumyajit-basak" className="button button--flex">
+      <a href="https://cal.com/aditya-raj-121/" className="button button--flex">
         Say Hello
         <svg
           className="button__icon"

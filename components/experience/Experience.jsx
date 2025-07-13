@@ -19,11 +19,11 @@ const Experience = () => {
             <div className="exp__content">
                 <div>
                     <i className="uil uil-web-grid exp__icon"></i>
-                    <h3 className="exp__title">Software <br /> Developer <br /> Trainee </h3>
+                    <h3 className="exp__title">Youth <br /> Campus <br /> Ambassador </h3>
                 </div>
 
                 <div>
-                    <span className="exp__comp">EXA AG</span>
+                    <span className="exp__comp">Viral Fission</span>
                 </div>
 
                 <span className="exp__button" onClick={() => toggleTab(1)}>View More <i className="uil uil-arrow-right exp__button-icon"></i></span>
@@ -32,25 +32,25 @@ const Experience = () => {
                     <div className="exp__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times exp__modal-close"></i>
 
-                        <h3 className="exp__modal-title">Software Developer Trainee <br /> Jun'24 - Currently Working🧑🏻‍💻</h3>
-                        <p className="exp__modal-description">Working currently as a Software Developer Trainee for full-time at EXA AG.
-                            Providing quality work to clients and company.
+                        <h3 className="exp__modal-title">Youth Campus Ambassador <br /> Sep'22 - Currently Working🧑🏻‍💻</h3>
+                        <p className="exp__modal-description">Working currently as a Youth Campus Ambassador for full-time at Viral Fission.
+                            Ensuring quality engagement and brand representation across campus activities..
                         </p>
 
                         <ul className="exp__modal-experiences grid">
                             <li className="exp__modal-experience">
                                 <li className="uil uil-check-circle exp__modal-icon"></li>
-                                <p className="exp__modal-info">Web Page Development.</p>
+                                <p className="exp__modal-info">Promoted brand campaigns across campus networks.</p>
                             </li>
 
                             <li className="exp__modal-experience">
                                 <li className="uil uil-check-circle exp__modal-icon"></li>
-                                <p className="exp__modal-info">I create UI Interfaces.</p>
+                                <p className="exp__modal-info">Coordinated student participation in marketing drives.</p>
                             </li>
 
                             <li className="exp__modal-experience">
                                 <li className="uil uil-check-circle exp__modal-icon"></li>
-                                <p className="exp__modal-info">I create UX Element Interactions.</p>
+                                <p className="exp__modal-info">Increased brand visibility through peer engagement.</p>
                             </li>
 
                         </ul>
@@ -61,11 +61,11 @@ const Experience = () => {
             <div className="exp__content">
                 <div>
                     <i className="uil uil-arrow exp__icon"></i>
-                    <h3 className="exp__title">Software <br /> Developer <br/> Intern</h3>
+                    <h3 className="exp__title">AI-ML<br /> Virtual <br/> Intern</h3>
                 </div>
 
                 <div>
-                    <span className="exp__comp">EXA AG</span>
+                    <span className="exp__comp">EduSkills Foundation</span>
                 </div>
 
                 <span className="exp__button" onClick={() => toggleTab(2)}>View More <i className="uil uil-arrow-right exp__button-icon"></i></span>
@@ -74,25 +74,25 @@ const Experience = () => {
                     <div className="exp__modal-content">
                         <i onClick={() => toggleTab(0)} className="uil uil-times exp__modal-close"></i>
 
-                        <h3 className="exp__modal-title">Software Developer Intern <br /> Feb'24 - May'24</h3>
-                        <p className="exp__modal-description">Worked at EXA AG as Intern for 5 months.
-                            Providing quality work to clients and company.
+                        <h3 className="exp__modal-title">AI-ML Virtual Intern <br /> Feb'24 - May'24</h3>
+                        <p className="exp__modal-description">Completed a 3-month hybrid internship at EduSkills Foundation.
+                            Worked on AI-ML projects, enhancing skills in Python and machine learning algorithms.
                         </p>
 
                         <ul className="exp__modal-experiences grid">
                             <li className="exp__modal-experience">
                                 <li className="uil uil-check-circle exp__modal-icon"></li>
-                                <p className="exp__modal-info">I developed the User Interfaces.</p>
+                                <p className="exp__modal-info">Explored supervised & unsupervised ML algorithms.</p>
                             </li>
 
                             <li className="exp__modal-experience">
                                 <li className="uil uil-check-circle exp__modal-icon"></li>
-                                <p className="exp__modal-info">Web Page Development.</p>
+                                <p className="exp__modal-info">Built hands-on projects using Python, NumPy, and Pandas.</p>
                             </li>
 
                             <li className="exp__modal-experience">
                                 <li className="uil uil-check-circle exp__modal-icon"></li>
-                                <p className="exp__modal-info">Part of the OTP (Operational Transfer Pricing) Team.</p>
+                                <p className="exp__modal-info">Gained practical understanding of AI workflows.</p>
                             </li>
 
                         </ul>

@@ -17,7 +17,11 @@ const About = () => {
           <div className="about__data">
             <Info />
 
-            <p className="about__description">Frontend Developer, I create web pages with UI / UX user interface, I create web pages with the skill set including HTML, CSS, JavaScript, and React, I have the tools to bring any website vision to life.</p>
+            <p className="about__description">
+  Final-year B.Tech CSE (2025) student passionate about building clean UIs and scalable backend systems. <br />
+  Skilled in React.js, Java, Spring Boot & MySQL with hands-on full-stack project experience. <br /><br />
+  Solved 300+ DSA problems and currently seeking frontend/full-stack roles to learn, grow, and contribute meaningfully.
+</p>
 
             <a download="" href={CV} className="button button--flex">Download CV 
               <svg
