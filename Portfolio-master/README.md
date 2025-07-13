@@ -1,86 +1,85 @@
-# 🚀 Soumyajit Basak's Developer Portfolio
+🚀 Aditya Raj's Developer Portfolio
 
 ![Portfolio Banner](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
 
-Welcome to my personal developer portfolio — a sleek, interactive, and dynamic website that gives you a deep dive into who I am, what I build, and how I think. Built with passion and precision, this project showcases not only my skills but also my creativity in building web experiences.
 
----
+Welcome to my developer portfolio — a modern, responsive website showcasing my journey, projects, and passion for full-stack development. Built with React and precision, this portfolio highlights not just what I do, but how I do it.
 
-## 🧑‍💻 About Me
+🧑‍💻 About Me
+Name: Aditya Raj
+Title: Final Year B.Tech CSE Student (2025)
+Location: New Delhi ,India
 
-**Name:** Soumyajit Basak  
-**Title:** Jr. Software Developer  
-**Location:** Bengaluru, India  
+I'm a self-motivated developer passionate about building seamless user interfaces and scalable backend systems. I love solving problems with code and delivering real-world solutions through full-stack development.
 
-Passionate Engineering Graduate, self-starter, quick learner, and adapt at using technical skills for organizational improvement.
+✨ Features
+🎨 Responsive UI built with React & Tailwind
 
----
+🌀 Smooth animations using Framer Motion
 
-## ✨ Features
+🌙 Dark mode toggle
 
-- 🌀 **Framer Motion** — Smooth animations & transitions to give a dynamic feel to the site.
-- 🖱️ **Say Hello Button** — Instantly book a 1:1 meeting with me.
-- 📄 **Download CV** — Grab a copy of my resume directly from the site.
-- 🌗 **Dark Mode Toggle** — Because your eyes deserve the choice.
-- ⚡ Fully responsive layout and stylish UI.
+📄 Download Resume directly from the site
 
----
+📬 Contact Form powered by EmailJS
 
-## 📌 Sections Covered
+📌 Sections Included
+🏠 Home
 
-- 🏠 **Home**
-- 📁 **Projects**
-- 🛠️ **Skills**
-- 💼 **Experience**
-- 🧑‍🎓 **About**
-- 📬 **Contact Me**
+🧠 About
 
-Each section is carefully crafted to tell my story and showcase my journey.
+🛠️ Skills
 
----
+📁 Projects
 
-## 🔧 Tech Stack
+🧩 Education
 
-- **React.js**
-- **Framer Motion**
-- **Tailwind CSS**
-- **JavaScript / HTML / CSS**
-- **EmailJS** for direct contact
-- **React Icons** for a modern feel
+📬 Contact
 
----
+🔧 Tech Stack
+Frontend: React.js, JavaScript, Tailwind CSS, HTML, CSS
 
-## 📷 Sneak Peek
+Backend: Java, Spring Boot, Node.js, Express.js
 
-![Screenshot](https://github.com/soumyajiitt/Portfolio/blob/master/src/assets/Work4.png)
+Database: MySQL, MongoDB
 
----
+Tools: Git, GitHub, Postman, Streamlit
 
-## 🎯 Call to Action
+💼 Projects
+📄 Resume Classifier
+Built using TF-IDF & KNN, achieved 98.4% accuracy
 
-👉 Wanna say hi or collaborate on something exciting?  
-Click the **“Say Hello”** button on my portfolio to **book a meeting** with me or **download my CV**.
+Deployed using Streamlit
 
----
+Automated classification of 1000+ resumes by job domain
 
-## 🌐 Live Demo
+📚 BookHaven (MERN Stack)
+Online bookstore with React, Express, MongoDB
 
-[🚀 Visit My Portfolio](https://soumyajitbasak.netlify.app/)  
+Includes login/signup, book management, and responsive UI
 
----
+🔧 Portfolio Website
+Built with React + Vite
 
-## 📫 Connect with Me
+Fully responsive design with dark mode and contact form
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/soumyajiitttt)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&style=for-the-badge&logoColor=white)](https://www.instagram.com/soumyajiitttt)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white)](https://github.com/soumyajiitt)
+📈 Achievements
+🧠 Solved 300+ DSA problems on LeetCode, GFG, and HackerRank
 
----
+🎖️ 4⭐ on HackerRank (Java)
 
-## 🤘 Let’s Build Something Cool Together!
+📜 HackerRank Certified in MySQL (Intermediate)
 
-Thanks for stopping by. Feel free to fork this project, raise issues, or drop a star ⭐️ if you like it!
+🚀 Participated in NASA Space Apps Hackathon
 
----
+🌐 Live Demo
+🔗 View My Portfolio
 
-> Built with ❤️ by **Soumyajit Basak**
+📫 Connect with Me
+
+
+
+🤝 Let’s Build Something Great Together!
+Thanks for visiting my portfolio! Feel free to ⭐ the repo or connect if you'd like to collaborate.
+
+Built with ❤️ by Aditya Raj
