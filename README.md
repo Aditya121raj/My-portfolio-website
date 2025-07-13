@@ -38,6 +38,7 @@ Location: New Delhi , India
                   
 
 💼 Projects
+
 (1)📄 Resume Classifier
 Built using TF-IDF & KNN, achieved 98.4% accuracy
 Deployed using Streamlit
