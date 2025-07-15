@@ -8,7 +8,7 @@ export const Data = [
       image: Image1,
       title: "Adarsh Kumar",
       description:
-        "Aditya has quickly proven his React expertise since joining our team. His coding skills have already made a significant impact. A valuable asset and a proactive team player, Soumyajit is a great addition to any team.",
+        "Aditya has quickly proven his React expertise since joining our team. His coding skills have already made a significant impact. A valuable asset and a proactive team player, Aditya is a great addition to any team.",
     },
     {
       id: 2,
